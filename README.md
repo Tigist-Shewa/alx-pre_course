@@ -1,6 +1,6 @@
 _This project is all about Git.__
 *At the end of this project I will be able to learn and explain to anyone
-without the help of google*.About: -
+without the help of google*.About the following topics: -
 * Git
 * Github
 * Difference between Git and GitHub
